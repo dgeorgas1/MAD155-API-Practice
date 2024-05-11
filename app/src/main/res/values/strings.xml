@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">API-Practice</string>
+
+    <!--Activity Main-->
+    <string name="etHint">Please Enter An Artist</string>
+    <string name="btnSearch">Search</string>
+
+    <!--Item Songs-->
+    <string name="tvSong">Song</string>
+    <string name="tvDuration">Duration</string>
+
+    <string name="album_cover">Album Cover</string>
+</resources>
